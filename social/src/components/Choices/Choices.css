@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Inter-SB';
+    src: url(../../assets/fonts/static/Inter-SemiBold.ttf);
+}
+.btns{
+    width: 290px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 20%);
+}
+.btns:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+label{
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter-SB';
+    font-size: 15px;
+}
